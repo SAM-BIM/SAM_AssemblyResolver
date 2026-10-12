@@ -1,3 +1,5 @@
+> **Archived (2026-10-12).** SAM_AssemblyResolver was a standalone prototype (August 2025) of a shared assembly resolver. It is retired: no current SAM repository, build or release references it. SAM_Revit_UI carries its own in-tree resolver (`SAM.Revit.UI/Classes/AssemblyResolver.cs`); no replacement for other hosts, such as Rhino, is claimed. It is kept read-only, with its full history, for reference.
+
 [![Build (Windows)](https://github.com/SAM-BIM/SAM_AssemblyResolver/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SAM-BIM/SAM_AssemblyResolver/actions/workflows/build.yml)
 [![Installer (latest)](https://img.shields.io/github/v/release/SAM-BIM/SAM_Deploy?label=installer)](https://github.com/SAM-BIM/SAM_Deploy/releases/latest)
 
